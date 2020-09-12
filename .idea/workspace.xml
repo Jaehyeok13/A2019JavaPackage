@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="A2019DatePackage:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e6744fb-6e84-466b-8a04-e6f264b5b61e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/A2019DatePackage">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/A2019DatePackage">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="A2019DatePackage" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="A2019DatePackage" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h1nyTD7RrYUD3y4NbVRhJ1ow9q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/A2019DatePackage_jar/A2019DatePackage.jar" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.14648438" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JarApplication">
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e6744fb-6e84-466b-8a04-e6f264b5b61e" name="Default Changelist" comment="" />
+      <created>1599187721696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599187721696</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="409" y="385" key="#BuildArtifactsBeforeRunChooser" timestamp="1599620786291">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="409" y="385" key="#BuildArtifactsBeforeRunChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1599620786291" />
+    <state x="506" y="94" key="#Project_Structure" timestamp="1599187906239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="506" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1599187906239" />
+    <state x="199" y="0" width="1092" height="1040" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599621239755">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="199" y="0" width="1092" height="1040" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599621239755" />
+    <state x="481" y="313" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599620514425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="481" y="313" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599620514425" />
+    <state x="806" y="274" key="FileChooserDialogImpl" timestamp="1599620803933">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="806" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599620803933" />
+    <state width="1207" height="294" key="GridCell.Tab.0.bottom" timestamp="1599213595070">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1207" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599213595070" />
+    <state width="1207" height="294" key="GridCell.Tab.0.center" timestamp="1599213595070">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1207" height="294" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599213595070" />
+    <state width="1207" height="294" key="GridCell.Tab.0.left" timestamp="1599213595070">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1207" height="294" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599213595070" />
+    <state width="1207" height="294" key="GridCell.Tab.0.right" timestamp="1599213595070">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1207" height="294" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599213595070" />
+    <state width="1207" height="294" key="GridCell.Tab.1.bottom" timestamp="1599213595070">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1207" height="294" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599213595070" />
+    <state width="1207" height="294" key="GridCell.Tab.1.center" timestamp="1599213595070">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1207" height="294" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599213595070" />
+    <state width="1207" height="294" key="GridCell.Tab.1.left" timestamp="1599213595070">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1207" height="294" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599213595070" />
+    <state width="1207" height="294" key="GridCell.Tab.1.right" timestamp="1599213595070">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1207" height="294" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599213595070" />
+    <state x="426" y="70" key="SettingsEditor" timestamp="1599620516164">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="426" y="70" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599620516164" />
+    <state x="368" y="252" width="867" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599205118071">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="368" y="252" width="867" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1599205118071" />
+    <state x="405" y="129" key="new project wizard" timestamp="1599188006496">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="405" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1599188006496" />
+    <state x="583" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1599190283503">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="583" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599190283503" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/A2019DatePackage$.ic" NAME=" Coverage Results" MODIFIED="1599202455244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

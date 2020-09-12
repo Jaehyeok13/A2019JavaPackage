@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="A2019DatePackage/src/main/java"/>
+	<classpathentry kind="lib" path="A2019DatePackage/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="A2019DatePackage/libs/bot-api.jar"/>
+	<classpathentry kind="lib" path="A2019DatePackage/libs/bot-runtime.jar"/>
+	<classpathentry kind="lib" path="A2019DatePackage/libs/command-annotations.jar"/>
+	<classpathentry kind="lib" path="A2019DatePackage/libs/command-plugin.jar"/>
+	<classpathentry kind="lib" path="A2019DatePackage/libs/command-processor.jar"/>
+	<classpathentry kind="lib" path="A2019DatePackage/libs/i18n-api.jar"/>
+	<classpathentry kind="lib" path="A2019DatePackage/libs/shadow.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,23 @@
+{
+    "name": "A2019DatePackage",
+    "label": "A2019DatePackage",
+    "description": "Provides actions for A2019DatePackage operations.",
+    "group": "com.automationanywhere",
+    "artifactName": "A2019DatePackage",
+    "packageVersion": "1.0.0-20200912-163231",
+    "codeVersion": "1.0.0-20200912-163231",
+    "commands": [
+        {
+            "name": "Todayinfo",
+            "label": "Todayinfo",
+            "description": "TodayInfo",
+            "nodeLabel": "\uc694\uc77c \ucd9c\ub825",
+            "mainClass": "com.automationanywhere.botcommand.date.TodayinfoCommand",
+            "icon": "pkg.svg",
+            "returnType": "STRING",
+            "returnSubtype": "UNDEFINED",
+            "returnLabel": "Assign the output to variable",
+            "returnRequired": true
+        }
+    ]
+}

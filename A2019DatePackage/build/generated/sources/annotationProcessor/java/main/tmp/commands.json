@@ -1,0 +1,1 @@
+[{"name":"Todayinfo","label":"Todayinfo","description":"TodayInfo","nodeLabel":"요일 출력","mainClass":"com.automationanywhere.botcommand.date.TodayinfoCommand","icon":"pkg.svg","returnType":"STRING","returnSubtype":"UNDEFINED","returnLabel":"Assign the output to variable","returnRequired":true}]
